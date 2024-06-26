@@ -1,4 +1,4 @@
-// File: /Users/chanyakittichai/Documents/ModBinDashboard/app/layout.tsx
+// File: D:\Project\ModBin\Web\ModBinDashboard\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
