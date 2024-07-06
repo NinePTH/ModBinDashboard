@@ -44,3 +44,12 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.mapboxgl-popup-content {
+  background: none !important;
+  padding: 0 !important;
+}
+.mapboxgl-popup-tip {
+  border-top-color: #fff !important;
+}
