@@ -30,6 +30,9 @@ importers:
       '@types/mapbox-gl':
         specifier: ^3.1.0
         version: 3.1.0
+      '@types/mapbox__mapbox-gl-geocoder':
+        specifier: ^5.0.0
+        version: 5.0.0
       '@types/node':
         specifier: ^20
         version: 20.14.9
@@ -277,6 +280,9 @@ packages:
 
   '@types/mapbox-gl@3.1.0':
     resolution: {integrity: sha512-hI6cQDjw1bkJw7MC/eHMqq5TWUamLwsujnUUeiIX2KDRjxRNSYMjnHz07+LATz9I9XIsKumOtUz4gRYnZOJ/FA==}
+
+  '@types/mapbox__mapbox-gl-geocoder@5.0.0':
+    resolution: {integrity: sha512-eGBWdFiP2QgmwndPyhwK6eBeOfyB8vRscp2C6Acqasx5dH8FvTo/VgXWCrCKFR3zkWek/H4w4/CwmBFOs7OLBA==}
 
   '@types/minimist@1.2.5':
     resolution: {integrity: sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==}
@@ -2226,6 +2232,11 @@ snapshots:
   '@types/mapbox-gl@3.1.0':
     dependencies:
       '@types/geojson': 7946.0.14
+
+  '@types/mapbox__mapbox-gl-geocoder@5.0.0':
+    dependencies:
+      '@types/geojson': 7946.0.14
+      '@types/mapbox-gl': 3.1.0
 
   '@types/minimist@1.2.5': {}
 
