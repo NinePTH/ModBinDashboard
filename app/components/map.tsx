@@ -87,7 +87,7 @@ function MapboxMap() {
       const { result } = event;
       if (result && result.center) {
         mapboxMap.flyTo({
-          center: result.center,
+          center: result.center as [number, number],
           zoom: 14
         });
       }
