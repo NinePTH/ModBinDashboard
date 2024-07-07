@@ -37,7 +37,7 @@ export default function Navbar() {
         >
           <ul className="justify-end items-center space-y-8  md:flex md:space-x-6 md:space-y-0">
             {menus.map((item, idx) => (
-              <li key={idx} className="text-white hover:text-ModGreen">
+              <li key={idx} className="text-white hover:text-gray-500">
                 <Link href={item.path}>{item.title}</Link>
               </li>
             ))}
