@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "ถนนพหลโยธิน",
+      "recycle": 4,
+      "general": 5,
+      "wet": 2,
+      "danger": 3,
+      "latitude": 13.7625,
+      "longitude": 100.5375
+    },
+    {
+      "id": 2,
+      "name": "ถนนสุขุมวิท",
+      "recycle": 2,
+      "general": 3,
+      "wet": 4,
+      "danger": 1,
+      "latitude": 13.7365,
+      "longitude": 100.5603
+    },
+    {
+      "id": 3,
+      "name": "ถนนเพชรบุรี",
+      "recycle": 3,
+      "general": 2,
+      "wet": 5,
+      "danger": 4,
+      "latitude": 13.7494,
+      "longitude": 100.5463
+    },
+    {
+      "id": 4,
+      "name": "ถนนสีลม",
+      "recycle": 1,
+      "general": 4,
+      "wet": 3,
+      "danger": 2,
+      "latitude": 13.7286,
+      "longitude": 100.5354
+    },
+    {
+      "id": 5,
+      "name": "ถนนพระราม 4",
+      "recycle": 5,
+      "general": 1,
+      "wet": 2,
+      "danger": 3,
+      "latitude": 13.7246,
+      "longitude": 100.5522
+    },
+    {
+      "id": 6,
+      "name": "ถนนพระราม 9",
+      "recycle": 4,
+      "general": 3,
+      "wet": 1,
+      "danger": 5,
+      "latitude": 13.7519,
+      "longitude": 100.5694
+    },
+    {
+      "id": 7,
+      "name": "ถนนวิภาวดีรังสิต",
+      "recycle": 3,
+      "general": 2,
+      "wet": 4,
+      "danger": 1,
+      "latitude": 13.7914,
+      "longitude": 100.5618
+    },
+    {
+      "id": 8,
+      "name": "ถนนรัชดาภิเษก",
+      "recycle": 2,
+      "general": 5,
+      "wet": 3,
+      "danger": 4,
+      "latitude": 13.7805,
+      "longitude": 100.5731
+    },
+    {
+      "id": 9,
+      "name": "ถนนรามคำแหง",
+      "recycle": 5,
+      "general": 4,
+      "wet": 1,
+      "danger": 2,
+      "latitude": 13.7520,
+      "longitude": 100.6170
+    },
+    {
+      "id": 10,
+      "name": "ถนนลาดพร้าว",
+      "recycle": 1,
+      "general": 3,
+      "wet": 4,
+      "danger": 5,
+      "latitude": 13.7800,
+      "longitude": 100.5844
+    },
+    {
+      "id": 11,
+      "name": "ถนนพระราม 6",
+      "recycle": 2,
+      "general": 4,
+      "wet": 3,
+      "danger": 1,
+      "latitude": 13.7634,
+      "longitude": 100.5418
+    },
+    {
+      "id": 12,
+      "name": "ถนนนราธิวาสราชนครินทร์",
+      "recycle": 3,
+      "general": 1,
+      "wet": 5,
+      "danger": 2,
+      "latitude": 13.7201,
+      "longitude": 100.5257
+    },
+    {
+      "id": 13,
+      "name": "ถนนสาทร",
+      "recycle": 4,
+      "general": 5,
+      "wet": 1,
+      "danger": 3,
+      "latitude": 13.7224,
+      "longitude": 100.5239
+    },
+    {
+      "id": 14,
+      "name": "ถนนราชดำเนิน",
+      "recycle": 5,
+      "general": 2,
+      "wet": 3,
+      "danger": 4,
+      "latitude": 13.7540,
+      "longitude": 100.5014
+    },
+    {
+      "id": 15,
+      "name": "ถนนเยาวราช",
+      "recycle": 1,
+      "general": 3,
+      "wet": 4,
+      "danger": 5,
+      "latitude": 13.7401,
+      "longitude": 100.5101
+    },
+    {
+      "id": 16,
+      "name": "ถนนพระปิ่นเกล้า",
+      "recycle": 2,
+      "general": 5,
+      "wet": 1,
+      "danger": 4,
+      "latitude": 13.7668,
+      "longitude": 100.4967
+    },
+    {
+      "id": 17,
+      "name": "ถนนราชพฤกษ์",
+      "recycle": 4,
+      "general": 2,
+      "wet": 3,
+      "danger": 1,
+      "latitude": 13.7263,
+      "longitude": 100.4596
+    },
+    {
+      "id": 18,
+      "name": "ถนนจรัญสนิทวงศ์",
+      "recycle": 3,
+      "general": 4,
+      "wet": 5,
+      "danger": 2,
+      "latitude": 13.7640,
+      "longitude": 100.4718
+    },
+    {
+      "id": 19,
+      "name": "ถนนพุทธมณฑล",
+      "recycle": 1,
+      "general": 3,
+      "wet": 2,
+      "danger": 5,
+      "latitude": 13.7710,
+      "longitude": 100.4225
+    },
+    {
+      "id": 20,
+      "name": "ถนนกาญจนาภิเษก",
+      "recycle": 5,
+      "general": 4,
+      "wet": 3,
+      "danger": 1,
+      "latitude": 13.7330,
+      "longitude": 100.4170
+    }
+  ],
+  "count": 20
+}
