@@ -13,17 +13,17 @@ export default function Navbar() {
   ]
 
   return (
-    <nav className="bg-white w-full border-b md:border-0">
+    <nav className="bg-[#255428] w-full border-b md:border-0">
       <div className="items-center px-4 max-w-screen-xl mx-auto md:flex md:px-8">
         <div className="flex items-center justify-between py-3 pb-[2rem] md:py-5 md:block pt-[2rem]">
           <Link href="/">
-            <h1 className=" flex items-end text-3xl font-bold text-gray-800 gap-4">ModBin
+            <h1 className=" flex items-end text-3xl font-bold text-white gap-4">ModBin
             </h1>
             
           </Link>
           <div className="md:hidden">
             <button
-              className="text-gray-700 outline-none rounded-md "
+              className="text-white outline-none rounded-md "
               onClick={() => setState(!state)}
             >
               <Menu />
@@ -37,7 +37,7 @@ export default function Navbar() {
         >
           <ul className="justify-end items-center space-y-8  md:flex md:space-x-6 md:space-y-0">
             {menus.map((item, idx) => (
-              <li key={idx} className="text-gray-600 hover:text-ModGreen">
+              <li key={idx} className="text-white hover:text-ModGreen">
                 <Link href={item.path}>{item.title}</Link>
               </li>
             ))}
